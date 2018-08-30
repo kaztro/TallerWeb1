@@ -1,0 +1,7 @@
+.wrapper {
+    width: 80%;
+    max-width: 1200px;
+    min-width: 300px;
+    background-color: bisque;
+    margin: 0 auto;
+}
