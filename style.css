@@ -1,4 +1,13 @@
+* {
+    background-color: #c5dfc5;
+}
 
 h1 {
     font-family: 'Lora', serif;
 }
+
+p {
+    font-family: 'Roboto Slab', serif;
+    text-align: justify;
+}
+
